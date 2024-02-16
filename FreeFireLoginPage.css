@@ -1,0 +1,79 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url("https://media1.tenor.com/m/eSg6p1M65WwAAAAd/fortnite-fortnite-battle-royale.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.logo img {
+    width: 200px;
+    height: 160px;
+    margin-top: 0px;
+    margin-left: 1050px;
+}
+
+button.facebook {
+    margin-top: 250px;
+    margin-left: 520px;
+    background: rgb(1, 149, 247);
+    text-align: center;
+    padding: 5px 30px 5px 30px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+button.facebook a {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+hr, p {
+    display: inline-block;
+    width: 60px;
+
+}
+
+.hr1 {
+    margin-left: 515px;
+}
+
+p {
+    margin-left: 30px;
+    color: white;
+}
+
+.butt button {
+    background: rgb(247, 247, 245);
+    border: none;
+    border-radius: 3px;
+    padding: 5px 25px 5px 25px;
+
+
+}
+
+.butt button a {
+    text-decoration: none;
+    color: black;
+}
+
+.but1 {
+    margin-left: 520px;
+}
+
+.check p {
+    display: inline;
+}
+
+.check p a {
+    color: white;
+}
